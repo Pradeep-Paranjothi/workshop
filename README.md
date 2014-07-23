@@ -1,4 +1,1 @@
-workshop
-========
-
-Workshop
+Code for Classification algorithms using R.
